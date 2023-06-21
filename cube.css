@@ -1,0 +1,42 @@
+h1{
+    font-size: 50px;
+    margin-bottom: 100px;
+}
+.as{
+    color: crimson;
+}
+.ad{
+    padding-left: 50px;
+    color: black;
+    font-size: 20px;
+    width: 40%;
+}
+.az{
+    width:40%;
+    size: 100px;
+}
+section{
+    display: flex;
+}
+.font{
+    font-family: 'Poppins', sans-serif;;
+}
+h1{
+    margin-bottom: 0px;
+}
+body{
+    background-image: url(image/top-banner.png);
+    background-repeat: no-repeat;
+}
+.link{
+    background-image:linear-gradient(red, orange);
+    text-decoration: none;
+    color: white;
+    padding: 5px;
+}
+.pic{
+    padding: 10px;
+    margin-top:90px;
+    margin-left:100px;
+}
+
