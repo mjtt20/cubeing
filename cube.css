@@ -1,9 +1,15 @@
 h1{
     font-size: 50px;
     margin-bottom: 100px;
+    font-family: 'Poppins', sans-serif;
+    margin-bottom: 0px;
+}
+h4{
+    font-family: 'Poppins', sans-serif;
 }
 .as{
     color: crimson;
+    font-family: 'Poppins', sans-serif;
 }
 .ad{
     padding-left: 50px;
@@ -15,14 +21,11 @@ h1{
     width:40%;
     size: 100px;
 }
-section{
+.sec1{
     display: flex;
 }
 .font{
-    font-family: 'Poppins', sans-serif;;
-}
-h1{
-    margin-bottom: 0px;
+    font-family: 'Poppins', sans-serif;
 }
 body{
     background-image: url(image/top-banner.png);
@@ -32,11 +35,28 @@ body{
     background-image:linear-gradient(red, orange);
     text-decoration: none;
     color: white;
-    padding: 5px;
+    padding:5px 20px;
+    border-radius: 5px;
+    font-family: 'Poppins', sans-serif;
 }
 .pic{
     padding: 10px;
     margin-top:90px;
     margin-left:100px;
 }
+.sec2{
+    display: flex;
+}
+.d1{
+   width: 70%;
+}
+.d2{
+    width: 60%;
+    margin-top: 50px;
+}
+span{
+    color: crimson;
+}
+
+
 
