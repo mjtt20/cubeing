@@ -1,15 +1,18 @@
+body{
+    background-image: url(image/top-banner.png);
+    background-repeat: no-repeat;
+    font-family: 'Poppins', sans-serif;
+}
 h1{
     font-size: 50px;
     margin-bottom: 100px;
-    font-family: 'Poppins', sans-serif;
+   
     margin-bottom: 0px;
 }
-h4{
-    font-family: 'Poppins', sans-serif;
-}
+
 .as{
     color: crimson;
-    font-family: 'Poppins', sans-serif;
+   
 }
 .ad{
     padding-left: 50px;
@@ -25,19 +28,18 @@ h4{
     display: flex;
 }
 .font{
-    font-family: 'Poppins', sans-serif;
+    
+    margin-bottom: 50px;
+    width: 600px;
 }
-body{
-    background-image: url(image/top-banner.png);
-    background-repeat: no-repeat;
-}
+
 .link{
     background-image:linear-gradient(red, orange);
     text-decoration: none;
     color: white;
     padding:5px 20px;
     border-radius: 5px;
-    font-family: 'Poppins', sans-serif;
+    
 }
 .pic{
     padding: 10px;
@@ -46,17 +48,65 @@ body{
 }
 .sec2{
     display: flex;
+    background-image: url(image/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    margin-top: 150px;
+    margin-bottom: 150px;
 }
 .d1{
    width: 70%;
 }
 .d2{
-    width: 60%;
+    width: 70%;
     margin-top: 50px;
+    padding: px;
 }
 span{
     color: crimson;
 }
+#ex{
+    
+    font-size: 50px;
+}
+#ex1{
+    margin-top: 70px;
+}
+.sec3{
+    display: flex;
+    background-image: url(image/exp-bg.png);
+    background-repeat: no-repeat;
+    margin-top: 70px;
+}
+#sd1{
+    box-shadow: 10px 10px 40px grey;
+    width: 40%;
+    margin: 0px 70px 10px 0px;
+    padding-left: 25px;
+    height: 300px;
+    border-radius: 10px;
+    border-left: 8px solid;
+    border-image: linear-gradient(purple,plum) 1;
+    font-size: 18px;
+    
+}
+#sd2{
+    box-shadow: 10px 10px 40px grey;
+    width: 40%;
+    margin: 0px 70px 10px 10px;
+    padding-left: 25px;
+    border-radius: 10px;
+    border-left: 8px solid;
+    border-image: linear-gradient(blue,lightblue) 1;
+    font-size: 18px;
+    
+}
+#f{
+    
+    text-align: center;
+    margin-top: 150px;
+}
+
 
 
 
